@@ -9,7 +9,7 @@
 - meta-llama-instruct : 챗봇에 특화되어 있는 meta-llama-instruct 모델을 파인튜닝한 파일들입니다.
   
 - llama-3-open-KO-8B : 가장 최근 발표된 라마 모델을 파인튜닝한 파일들입니다.
-
+- augment : 기존 데이터셋 증강시키는 코드 파일입니다.
 
   
 ### 허깅페이스에 업로드한 파일 요약
